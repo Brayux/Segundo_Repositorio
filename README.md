@@ -1,4 +1,4 @@
-# Segundo_Repositorio
+# Tercer_Repositorio
 Reto 03
 Buenos dias profe
 *Plantear el algoritmo para obtener los números primos hasta n, usando pseudocódigo y diagramas de flujo.
